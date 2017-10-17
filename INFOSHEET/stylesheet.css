@@ -1,0 +1,31 @@
+
+h1{
+  color: blue;
+  font-family: courier;
+}
+#tdCoolColor{
+  color: silver;
+  letter-spacing: 5px;
+  background-color: orange;
+  border: blue 1px;
+  border-collapse: collapse;
+  padding: 15px green;
+}
+td{
+  color: green;
+  border: black 20px;
+  font-style: oblique;
+
+}
+#clickBait{
+  color: =black;
+  border: 5px black;
+  border-radius: 5px;
+}
+#borderPre{
+  border: 1px solid black;
+  border-collapse: collapse;
+}
+#tr:nth-child(even) {
+    background-color: #fddddd;
+}
